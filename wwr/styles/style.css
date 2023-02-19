@@ -9,7 +9,7 @@ margin: 0 auto;
 
 .home-grid {
     display: grid;
-    grid-template-columns: 10fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
 }
 
 nav a {
